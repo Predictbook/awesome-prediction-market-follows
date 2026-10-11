@@ -2,8 +2,9 @@
 
 # A List of Prediction Market Voices Worth Following
 
-![Maintained](https://img.shields.io/badge/Maintained%3F-yes-brightgreen.svg)
-![PRs Welcome](https://img.shields.io/badge/PRs-welcome-blue.svg)
+> **Work in progress.** This list is still being built and isn't open for submissions yet. For the finished directory of prediction market tools, see [awesome-prediction-market-analytics-tools](https://github.com/Predictbook/awesome-prediction-market-analytics-tools).
+
+![Status](https://img.shields.io/badge/status-work%20in%20progress-orange.svg)
 [![Telegram](https://img.shields.io/badge/Telegram-Predictbook_Analysis-26A5E4?logo=telegram&logoColor=white)](https://t.me/PredictbookAnalysis)
 
 Maintained by [Predictbook](https://predictbook.co) — the people, platforms, and outlets worth following if you're actually trading or reading prediction markets, not just skimming headlines about them.
